@@ -1,5 +1,5 @@
 name: 百度签到
-# test
+# 26-03-10
 on:
     workflow_dispatch:
     schedule:
