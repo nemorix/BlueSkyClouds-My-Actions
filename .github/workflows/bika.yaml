@@ -1,5 +1,5 @@
 name: 哔咔漫画自动打哔咔
-# test
+# 26-03-10
 on:
     workflow_dispatch:
     schedule:
