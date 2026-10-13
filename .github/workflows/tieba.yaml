@@ -1,4 +1,4 @@
-name: 百度签到
+name: 百度签到x
 # 26-03-10
 on:
     workflow_dispatch:
